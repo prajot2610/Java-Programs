@@ -5,7 +5,7 @@ This repository includes programs based on advanced Java concepts, OOP principle
 
 📂 Repository Structure
 
-/Semester--4-Java
+Semester--4-Java
 │
 ├── OOP Concepts
 ├── Exception Handling
