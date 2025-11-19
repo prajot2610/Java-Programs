@@ -5,8 +5,6 @@ This repository includes programs based on advanced Java concepts, OOP principle
 
 📂 Repository Structure
 
-(Modify folders according to your repo)
-
 /Semester--4-Java
 │
 ├── OOP Concepts
